@@ -93,6 +93,8 @@ body {
 .about-rubric {
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-size: 16px;
+  color: #434455;
 }
 
 /* our team  */
